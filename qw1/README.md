@@ -1,4 +1,7 @@
 A. Sublattices
 
-
 [![html_preview](https://img.shields.io/badge/HTML-Preview-lightblue?logo=read-the-docs)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/royd4ly/quantum_wells/main/qw1/A.%20Sublattices.html)
+
+B. Composition
+
+[![html_preview](https://img.shields.io/badge/HTML-Preview-lightblue?logo=read-the-docs)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/royd4ly/quantum_wells/main/qw1/B.%20Composition.html)
