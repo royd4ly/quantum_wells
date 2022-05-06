@@ -1,11 +1,11 @@
 A. Sublattices
 
-[![html_preview](https://img.shields.io/badge/HTML-Preview-lightblue?logo=read-the-docs)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/royd4ly/quantum_wells/main/Examples/qw2/A.%20Sublattices.html)
+[![pdf](https://img.shields.io/badge/PDF-Preview-lightblue?logo=read-the-docs)](https://github.com/royd4ly/quantum_wells/blob/main/Examples/qw2/A.%20Sublattices.pdf)
 
 B. Composition
 
-[![html_preview](https://img.shields.io/badge/HTML-Preview-lightblue?logo=read-the-docs)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/royd4ly/quantum_wells/main/Examples/qw2/B.%20Composition.html)
+[![pdf](https://img.shields.io/badge/PDF-Preview-lightblue?logo=read-the-docs)](https://github.com/royd4ly/quantum_wells/blob/main/Examples/qw2/B.%20Composition.pdf)
 
 C. Muraki Model and Topology
 
-[![html_preview](https://img.shields.io/badge/HTML-Preview-lightblue?logo=read-the-docs)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/royd4ly/quantum_wells/main/Examples/qw2/C.%20Muraki%20Model%20and%20Topology.html)
+[![pdf](https://img.shields.io/badge/PDF-Preview-lightblue?logo=read-the-docs)](https://github.com/royd4ly/quantum_wells/blob/main/Examples/qw2/C.%20Muraki%20Model%20and%20Topology.pdf)
