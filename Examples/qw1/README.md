@@ -1,6 +1,6 @@
 A. Sublattices
 
-[![pdf](https://img.shields.io/badge/PDF-Preview-lightblue?logo=read-the-docs)](https://github.com/royd4ly/quantum_wells/blob/main/Examples/qw1/A.%20Sublattices.pdf)
+[![pdf](https://img.shields.io/badge/PDF-Preview-lightblue?logo=read-the-docs)](https://github.com/royd4ly/quantum_wells/blob/main/Examples/qw1/A.%20Sublattices.pdf){:target="_blank" rel="noopener"}
 
 B. Composition
 
